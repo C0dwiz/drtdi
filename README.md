@@ -346,8 +346,8 @@ Thanks to all contributors and the Dart/Flutter community for inspiration and su
 
 **Built with ❤️ for the Dart and Flutter community**
 
-[📖 Documentation](https://github.com/your-username/drtdi/wiki) •
-[🐛 Report Bug](https://github.com/your-username/drtdi/issues) •
-[💡 Request Feature](https://github.com/your-username/drtdi/issues)
+[📖 Documentation (Soon)](https://github.com/c0dwiz/drtdi/wiki) •
+[🐛 Report Bug](https://github.com/c0dwiz/drtdi/issues) •
+[💡 Request Feature](https://github.com/c0dwiz/drtdi/issues)
 
 </div>
