@@ -1,4 +1,4 @@
-## 1.0.1
+## 1.0.2
 
 - docs: add documentation for DI container
 

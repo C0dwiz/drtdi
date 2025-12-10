@@ -25,7 +25,7 @@ Add `drtdi` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  drtdi: ^1.0.1
+  drtdi: ^1.0.2
 ```
 
 ## 🎯 Quick Start
@@ -346,7 +346,7 @@ Thanks to all contributors and the Dart/Flutter community for inspiration and su
 
 **Built with ❤️ for the Dart and Flutter community**
 
-[📖 Documentation (Soon)](https://github.com/c0dwiz/drtdi/wiki) •
+[📖 Documentation](https://c0dwiz.github.io/doc/api/) •
 [🐛 Report Bug](https://github.com/c0dwiz/drtdi/issues) •
 [💡 Request Feature](https://github.com/c0dwiz/drtdi/issues)
 

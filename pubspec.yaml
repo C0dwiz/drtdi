@@ -1,6 +1,6 @@
 name: drtdi
 description: A lightweight, powerful dependency injection container for Dart with support for multiple lifecycles, scoping, and decorators.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/c0dwiz/drtdi
 repository: https://github.com/c0dwiz/drtdi
 
