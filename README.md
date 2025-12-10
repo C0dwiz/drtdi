@@ -25,7 +25,7 @@ Add `drtdi` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  drtdi: ^1.0.0
+  drtdi: ^1.0.1
 ```
 
 ## 🎯 Quick Start
